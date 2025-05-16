@@ -1,34 +1,34 @@
 # Lenda da Forja Sombria
 
-Este é um jogo idle estilo fantasia, com foco em forja de equipamentos, coleta de recursos e progressão automática.
+Jogo idle inspirado em fantasia sombria, forja de equipamentos e batalhas contra inimigos épicos.
 
 ## Funcionalidades
 
 - Produção automática de Ouro, Essência das Trevas e Mana Antiga
-- Inventário com itens dropados por raridade (Comum até Mítico)
-- Equipamentos por tipo: Espada, Elmo, Peitoral, Botas, Amuleto
+- Inventário com equipamentos por raridade (Comum até Mítico)
+- Sistema de Regiões (Floresta, Minas, Torres...) com nível mínimo necessário
+- Inimigos únicos por região (Goblin, Troll, Balrog, Nazgûl)
+- Drop de loot e progressão de nível ao derrotar inimigos
 - Conquistas desbloqueáveis
-- Fusão de 3 itens iguais para raridade superior
-- Sistema de salvamento automático e manual
-- Backup manual com múltiplos slots
-- Layout com navegação por abas
-- Interface moderna com tema sombrio
+- Backup com múltiplos slots
+- Salvamento automático
+- Layout em abas com interface responsiva
 
-## Como rodar
+## Como jogar
 
-1. Faça o download ou clone o repositório.
-2. Acesse o arquivo `index.html` no navegador **(não precisa de servidor)**.
-3. Para publicar no GitHub Pages:
+1. Acesse `index.html` no navegador.
+2. Para publicar no GitHub Pages:
 
 ### Publicar no GitHub Pages
 
-1. Crie um novo repositório no GitHub (ex: `forja-sombria`)
-2. Faça upload do conteúdo do ZIP (somente o `index.html`)
-3. Vá em `Settings` > `Pages`
-4. Em **Source**, selecione `Deploy from a branch`
-5. Escolha a branch `main` e clique em **Save**
-6. O jogo ficará disponível em: `https://seu-usuario.github.io/forja-sombria/`
+1. Crie um novo repositório (ex: `forja-sombria`)
+2. Envie o arquivo `index.html` e `README.md`
+3. Vá em `Settings > Pages`
+4. Selecione `Deploy from a branch`
+5. Escolha a branch `main` e clique em Save
+
+Acesse: `https://seu-usuario.github.io/forja-sombria`
 
 ## Licença
 
-Este projeto é de uso pessoal e educacional.
+Uso pessoal e educacional.
